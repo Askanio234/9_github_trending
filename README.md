@@ -9,7 +9,7 @@
 pip install -r requirements.txt
 
 ```
-Запуск на Linux:
+## Запуск на Linux:
 
 ```#!bash
 
@@ -38,7 +38,7 @@ $ E:\Users\user\Documents\projects\9_github_trending>python github_trending.py
 
 ```
 
-Запуск на Windows происходит аналогично.
+## Запуск на Windows происходит аналогично.
 
 # Цели проекта
 
